@@ -33,3 +33,15 @@
 8. Piekarnia otwarta tylko o północy
 9. Strach na wróble z medalem
 10. Zegar, który przez rok chodził do tyłu
+
+## Lista pomysłów 2 (z 17.11.2026)
+11. Miasteczko, w którym zakazano gwizdania
+12. Listonosz, który doręczał listy tylko na rowerze bez siodełka
+13. Wioska, w której wszyscy noszą pidżamy na co dzień
+14. Najdłuższa kolejka po chleb w historii
+15. Kot, który był burmistrzem przez 15 lat
+16. Most z dzwonkiem do przejścia
+17. Wieś, w której nikt nie zamykał drzwi
+18. Kościelny dzwon, który dzwonił 13 razy
+19. Konkurs na największą dynię, który wygrał koń
+20. Miasteczko, które zakazało parasoli
