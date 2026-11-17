@@ -20,7 +20,7 @@
 
 ## Zrobione filmy
 1. `gus_the_rooster.mp4`: kogut skazany na więzienie (61 s, lektor Piper, napisy).
-2. `brimwick_hats.mp4`: miasteczko, w którym wszyscy noszą ten sam kapelusz (61 s, ElevenLabs Brian, napisy). Pomysł nr 5 z listy.
+2. `brimwick_hats.mp4`: miasteczko, w którym wszyscy noszą ten sam kapelusz (61 s, ElevenLabs Liam ×1.12, 60 ujęć kamery, napisy). Pomysł nr 5 z listy. Wersja 2: szybki montaż, naprawione migotanie podłogi.
 
 ## Lista pomysłów (z 17.11.2026)
 1. Koza wybrana na burmistrza
