@@ -22,6 +22,8 @@
 1. `gus_the_rooster.mp4`: kogut skazany na więzienie (61 s, lektor Piper, napisy).
 2. `brimwick_hats.mp4`: miasteczko, w którym wszyscy noszą ten sam kapelusz (61 s, ElevenLabs Liam ×1.12, 60 ujęć kamery, napisy). Pomysł nr 5 z listy. Wersja 2: szybki montaż, naprawione migotanie podłogi.
 
+3. `whistle_town.mp4`: miasteczko, które zakazało gwizdania (61 s, Liam ×1.12, 54 ujęcia kamery, napisy). Pomysł nr 11.
+
 ## Lista pomysłów (z 17.11.2026)
 1. Koza wybrana na burmistrza
 2. Latarnik, który nigdy nie widział statku
@@ -35,7 +37,7 @@
 10. Zegar, który przez rok chodził do tyłu
 
 ## Lista pomysłów 2 (z 17.11.2026)
-11. Miasteczko, w którym zakazano gwizdania
+11. Miasteczko, w którym zakazano gwizdania (zrobione)
 12. Listonosz, który doręczał listy tylko na rowerze bez siodełka
 13. Wioska, w której wszyscy noszą pidżamy na co dzień
 14. Najdłuższa kolejka po chleb w historii
