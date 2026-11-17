@@ -1,0 +1,31 @@
+# Notatki o preferencjach użytkownika
+
+## Styl współpracy
+- Odpowiadać po polsku, profesjonalnie, bez błędów, w stylu Jarvisa.
+- Nie zadawać pytań: decyzje podejmować samodzielnie („wybierz sam”, „nie odpowiadam na pytania”).
+- Robić dokładnie to, o co proszono, nie więcej. Na przykład „podłącz ElevenLabs i daj pomysły” nie oznacza przerabiania filmu.
+- Zapamiętywać wszystko, co mówi użytkownik.
+
+## Filmy (styl ricksclips)
+- Pionowo, 1080x1920, 30 fps.
+- Długość 60 s lub więcej, najlepiej około 61 s.
+- Lektor: ElevenLabs, głos Brian (głęboki amerykański narrator). Klucz API nie trafia do repozytorium.
+- Napisy wypalone w obrazie, słowo po słowie, aktualne słowo podświetlone na żółto.
+- Oryginalna historia ze zwrotem akcji na końcu. Bez prawdziwych osób i marek.
+- Głośność −14 LUFS, szczyt poniżej −1 dBFS. Muzyka 6 dB pod głosem.
+
+## Zrobione filmy
+1. `gus_the_rooster.mp4`: kogut skazany na więzienie (61 s, lektor Piper, napisy).
+2. `brimwick_hats.mp4`: miasteczko, w którym wszyscy noszą ten sam kapelusz (61 s, ElevenLabs Brian, napisy). Pomysł nr 5 z listy.
+
+## Lista pomysłów (z 17.11.2026)
+1. Koza wybrana na burmistrza
+2. Latarnik, który nigdy nie widział statku
+3. Wioska, która zakazała wtorków
+4. Pies listonosz przez 12 lat
+5. Miasteczko jednakowych kapeluszy (zrobione)
+6. Krowa, która trzy razy uciekła z „więzienia”
+7. Most, przez który nie wolno było przejść
+8. Piekarnia otwarta tylko o północy
+9. Strach na wróble z medalem
+10. Zegar, który przez rok chodził do tyłu
