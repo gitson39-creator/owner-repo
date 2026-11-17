@@ -9,7 +9,11 @@
 ## Filmy (styl ricksclips)
 - Pionowo, 1080x1920, 30 fps.
 - Długość 60 s lub więcej, najlepiej około 61 s.
-- Lektor: ElevenLabs, głos Brian (głęboki amerykański narrator). Klucz API nie trafia do repozytorium.
+- Lektor ma brzmieć jak na kanale RicksClips (YouTube @ricksclips3000). Jeśli nie da się identycznie, wybrać najbliższy głos ElevenLabs.
+  Obecnie: Liam, tempo 1.12. Wybrany bez próbki z kanału, bo YouTube jest zablokowany w sieci środowiska. Klucz API nie trafia do repozytorium.
+- Montaż jak u RicksClips: dużo się dzieje, cięcie co 1–2 s, zmiany kątów kamery, szybkie obroty z rozmyciem, najazdy na słowa kluczowe, wstrząsy.
+- Szybka mowa i krótkie pauzy.
+- Bez glitchy: sprawdzać migotanie podłogi (konflikt głębi bruk/trawa, naprawione).
 - Napisy wypalone w obrazie, słowo po słowie, aktualne słowo podświetlone na żółto.
 - Oryginalna historia ze zwrotem akcji na końcu. Bez prawdziwych osób i marek.
 - Głośność −14 LUFS, szczyt poniżej −1 dBFS. Muzyka 6 dB pod głosem.
