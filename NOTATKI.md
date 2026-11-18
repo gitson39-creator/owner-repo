@@ -72,3 +72,7 @@ Alternatywy: Leonida Daily, Vice Atlas, Where To Go First, Map of Vice, Leonida 
 ## Rolka GTA 6 #1 – wersja 3 (18.11.2026)
 - Uwaga użytkownika: początek (Leonida, regiony) był tragiczny. Od razu zaczynać od Vice City. Bez długich przerw między słowami, cały czas coś ma się dziać.
 - Zrobione: start w Vice City, pauzy między zdaniami 0,24 s, pauzy wewnątrz zdań skrócone do 0,1 s. Długość 37 s (wcześniejsza preferencja 60 s+ ustąpiła prośbie o brak przerw).
+
+## Rolka GTA 6 #2 (18.11.2026)
+- Prośba: 1–2 ciekawe miejsca, 30–40 s, bez przerw. Zrobione: Ocean Beach (+ Ocean View Hotel z 2002, neon nocą) i Port VC (wycieczkowce, kontenery). 34,4 s.
+- Plik: `gta6_where_to_go_first_2.mp4`, projekt w scratchpad/map2.
