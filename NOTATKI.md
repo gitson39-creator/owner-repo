@@ -68,3 +68,7 @@ Alternatywy: Leonida Daily, Vice Atlas, Where To Go First, Map of Vice, Leonida 
   🗺️ GTA 6 maps & secrets
   📍 Best spots in Leonida
   🔔 New video daily
+
+## Rolka GTA 6 #1 – wersja 3 (18.11.2026)
+- Uwaga użytkownika: początek (Leonida, regiony) był tragiczny. Od razu zaczynać od Vice City. Bez długich przerw między słowami, cały czas coś ma się dziać.
+- Zrobione: start w Vice City, pauzy między zdaniami 0,24 s, pauzy wewnątrz zdań skrócone do 0,1 s. Długość 37 s (wcześniejsza preferencja 60 s+ ustąpiła prośbie o brak przerw).
