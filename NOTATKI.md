@@ -47,3 +47,9 @@
 18. Kościelny dzwon, który dzwonił 13 razy
 19. Konkurs na największą dynię, który wygrał koń
 20. Miasteczko, które zakazało parasoli
+
+## Rolki mapowe GTA 6 (od 18.11.2026)
+- Format jak rolka FB „Where to go first · GTA 6 · after launch · #1”: mapa Leonidy, nagłówek WHERE TO GO FIRST, żółta plakietka, czarne etykiety, różowe okręgi, pinezki, przyciemnienie, rozmycie przy najazdach, na końcu FOLLOW FOR THE NEXT ONE. Bez klipów z trailera.
+- Narzędzie: Remotion (projekt w scratchpad/map/rm). Mapa rysowana w SVG. Lektor Liam ×1.12. 61 s.
+- Użytkownik nie chce wykładów o prawach autorskich do takich rolek.
+- Zrobione: #1 Starfish Island (`gta6_where_to_go_first_1.mp4`).
