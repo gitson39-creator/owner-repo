@@ -77,3 +77,7 @@ Alternatywy: Leonida Daily, Vice Atlas, Where To Go First, Map of Vice, Leonida 
 - Prośba: 1–2 ciekawe miejsca, 30–40 s, bez przerw. Zrobione: Ocean Beach (+ Ocean View Hotel z 2002, neon nocą) i Port VC (wycieczkowce, kontenery). 34,4 s.
 - Plik: `gta6_where_to_go_first_2.mp4`, projekt w scratchpad/map2.
 - Preferencja (18.11.2026): w kolejnych rolkach najlepiej JEDNO miejsce na odcinek. Nie zadawać pytań.
+
+## Opisy TikTok (18.11.2026)
+#1: Starfish Island = Tommy Vercetti's old island 🏝️ Where are you going first in GTA 6? 👇 #gta6 #gtavi #vicecity #leonida #gta #rockstargames #gaming #gtavicecity
+#2: Ocean Beach by day, neon by night 🌴 Then the port across the water 🚢 Where are you going first? 👇 #gta6 #gtavi #vicecity #leonida #gta #rockstargames #gaming #oceanbeach
