@@ -61,3 +61,10 @@
 ## Nazwa kanału TikTok (propozycje z 18.11.2026)
 Rekomendacja: **Leonida Intel**? Nie: zajęte przez stronę leonida-intel.com. Wybrana rekomendacja: **ViceMapped** (@vicemapped).
 Alternatywy: Leonida Daily, Vice Atlas, Where To Go First, Map of Vice, Leonida Uncovered, VC Insider, Neon Leonida, Six Minutes in Vice, The Leonida Guide.
+
+## Kanał TikTok: wybrany (18.11.2026)
+- Nazwa wybrana przez użytkownika: **vicemaped** (tak napisał, przez jedno „p”).
+- Bio (limit TikToka 80 znaków):
+  🗺️ GTA 6 maps & secrets
+  📍 Best spots in Leonida
+  🔔 New video daily
