@@ -57,3 +57,7 @@
 - Mapa v2 zbudowana z prawdziwych danych: OSM Miami (BBBike) jako Vice City, Natural Earth z południowej Florydy jako Leonida, lupa na Vice City, fraktalne wybrzeże.
   Nazwy z gry: Starfish (Star Island), Rialto Islands (Venetian), Dalton (Fisher), Gloriana Key (Virginia Key), Catalan Key (Key Biscayne), Catalan Bay (Biscayne Bay), Vice Beach / Ocean Beach, Port VC, Little Cuba, Stockyard, Lake Leonida (Okeechobee).
 - Generatory map: scratchpad/geo (build_world.py, build_vc.py, style_all.py). Rastry: overview, mid, close.
+
+## Nazwa kanału TikTok (propozycje z 18.11.2026)
+Rekomendacja: **Leonida Intel**? Nie: zajęte przez stronę leonida-intel.com. Wybrana rekomendacja: **ViceMapped** (@vicemapped).
+Alternatywy: Leonida Daily, Vice Atlas, Where To Go First, Map of Vice, Leonida Uncovered, VC Insider, Neon Leonida, Six Minutes in Vice, The Leonida Guide.
