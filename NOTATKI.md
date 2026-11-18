@@ -52,4 +52,8 @@
 - Format jak rolka FB „Where to go first · GTA 6 · after launch · #1”: mapa Leonidy, nagłówek WHERE TO GO FIRST, żółta plakietka, czarne etykiety, różowe okręgi, pinezki, przyciemnienie, rozmycie przy najazdach, na końcu FOLLOW FOR THE NEXT ONE. Bez klipów z trailera.
 - Narzędzie: Remotion (projekt w scratchpad/map/rm). Mapa rysowana w SVG. Lektor Liam ×1.12. 61 s.
 - Użytkownik nie chce wykładów o prawach autorskich do takich rolek.
-- Zrobione: #1 Starfish Island (`gta6_where_to_go_first_1.mp4`).
+- Zrobione: #1 Starfish Island (`gta6_where_to_go_first_1.mp4`), wersja 2 po uwagach.
+- Uwagi użytkownika (v1 była zła): „to nawet nie jest Vice City”, „mapa wygląda źle”. Zawsze najpierw research, a jakość ponad tempo.
+- Mapa v2 zbudowana z prawdziwych danych: OSM Miami (BBBike) jako Vice City, Natural Earth z południowej Florydy jako Leonida, lupa na Vice City, fraktalne wybrzeże.
+  Nazwy z gry: Starfish (Star Island), Rialto Islands (Venetian), Dalton (Fisher), Gloriana Key (Virginia Key), Catalan Key (Key Biscayne), Catalan Bay (Biscayne Bay), Vice Beach / Ocean Beach, Port VC, Little Cuba, Stockyard, Lake Leonida (Okeechobee).
+- Generatory map: scratchpad/geo (build_world.py, build_vc.py, style_all.py). Rastry: overview, mid, close.
