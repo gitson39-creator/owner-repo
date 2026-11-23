@@ -99,3 +99,14 @@ Analiza z 9 publicznych klatek (pełne wideo zablokowane przez weryfikację YouT
 - Kamera: ekstremalne zbliżenia przycinające pół twarzy, żabia i ptasia perspektywa, ujęcia przez obiekty na pierwszym planie, silna głębia ostrości, szerokie ujęcia ustanawiające; częste cięcia.
 - Napisy: biały, gruby zaokrąglony bezszeryfowy font z czarnym obrysem, małe litery jak w mowie, 1–2 słowa, mały rozmiar, około 63% wysokości kadru, bez żółtego podświetlenia.
 - Do zrobienia po otrzymaniu pliku wideo: głos, tempo, pauzy, rytm cięć, przejścia, ruch kamery, animacje.
+
+## Remake filmu nr 22 w stylu RicksClips (23.11.2026)
+- Prośba: przeanalizować film RicksClips (YouTube Shorts NpRAk-5VKlo, plik przesłany przez użytkownika) i zrobić film nr 22 jeszcze raz, tak żeby wyglądał jak wzór. Czas nie gra roli, jakość jest najważniejsza.
+- Pełna analiza: `ANALIZA_RICKSCLIPS.md`.
+- Nowe zasady stylu (zastępują starsze z sekcji „Filmy”):
+  - Napisy: białe Nunito Black z czarnym obrysem, 1–2 słowa, pisownia jak w mowie, około 70% wysokości kadru, bez żółtego podświetlenia.
+  - Muzyka gra bez przerwy, miękka, ~100 BPM, bez stopy, około 9 dB pod głosem.
+  - Kamera zawsze w ruchu, nowa kompozycja co 1,5–3 s, twarde cięcia, przeloty, bez rozmyć przy cięciach.
+  - Świat realistyczny (PBR, HDRI, bloom, głębia ostrości), postacie płaskie 2D z białymi okrągłymi głowami.
+- Głos: ElevenLabs „Harry” (premade), tempo 1.12, najbliższy wysokością głosu (~180 Hz, wzór ~198 Hz). Darmowy plan ElevenLabs nie pozwala używać głosów z biblioteki przez API, dostępne są tylko premade.
+- Projekt: scratchpad/proj5 (render realistyczny, three.js r160 + tekstury Poly Haven CC0).
