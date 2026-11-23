@@ -90,3 +90,12 @@ Lista pomysłów 3 (23.11.2026): 22 Pies, który dostał prawo jazdy; 23 Wioska,
 - `dog_license.mp4`: pies Biscuit z prawem jazdy (40 s, Liam ×1.12, 35 ujęć, napisy, karty HUD). Zwrot: auto bez silnika, w środku gniazdo ptaków, nigdy nie wyjechało z podjazdu.
 - Projekt: scratchpad/proj4 (nowe: drawDog, kabriolet z otwieraną maską, warstwa HUD nad obrazem).
 - ElevenLabs: zostało ok. 2900 znaków do resetu limitu.
+
+## Wzór stylu: RicksClips „Why Astronauts Can't Flush in Space” (23.11.2026)
+Analiza z 9 publicznych klatek (pełne wideo zablokowane przez weryfikację YouTube):
+- Postacie: płaskie 2D „bean” w świecie 3D, BIAŁE okrągłe twarze bez koloru skóry, cienkie czarne kreski zamiast rąk i nóg, kolorowe kapsułowe tułowia (fiolet, żółty, czerwony) z kołnierzykami i naszywkami, rysowane włosy i czapki, oczy jako kółka z kropką, małe usta, miny „smug”.
+- Otoczenie: realistyczne, szczegółowe 3D (PBR, połysk, odbicia), nie toon-shading. Dużo rekwizytów, ekrany, panele, emisyjne światła.
+- Światło: ciemne, filmowe, wysoki kontrast, kontrowe i boczne światła, bloom, gwiazdki odblasków, cząsteczki/kurz, winieta, chłodna niebieska tonacja z ciepłymi akcentami (pomarańcz).
+- Kamera: ekstremalne zbliżenia przycinające pół twarzy, żabia i ptasia perspektywa, ujęcia przez obiekty na pierwszym planie, silna głębia ostrości, szerokie ujęcia ustanawiające; częste cięcia.
+- Napisy: biały, gruby zaokrąglony bezszeryfowy font z czarnym obrysem, małe litery jak w mowie, 1–2 słowa, mały rozmiar, około 63% wysokości kadru, bez żółtego podświetlenia.
+- Do zrobienia po otrzymaniu pliku wideo: głos, tempo, pauzy, rytm cięć, przejścia, ruch kamery, animacje.
