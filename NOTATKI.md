@@ -85,3 +85,8 @@ Alternatywy: Leonida Daily, Vice Atlas, Where To Go First, Map of Vice, Leonida 
 ## Nowy pomysł na film z historyjką (23.11.2026)
 21. „The town where the mayor was a parrot”: papuga po zmarłym burmistrzu powtarza jego zdania, rada słucha jej przez 9 lat. Zwrot: miasto ma najlepszy budżet w historii, bo papuga umiała powiedzieć tylko „No.”
 Lista pomysłów 3 (23.11.2026): 22 Pies, który dostał prawo jazdy; 23 Wioska, gdzie zegarmistrz przestawiał czas; 24 Kot, który ukradł 600 skarpetek; 25 Szkoła z jednym uczniem; 26 Miasto zakazujące śmiechu w niedzielę; 27 Latarnia na suchym lądzie; 28 Rybak, który złapał tę samą rybę 40 razy; 29 Most budowany 100 lat; 30 Wioska, gdzie wszyscy mają na imię Bob; 31 Kura, która zniosła jajo na kościelnej wieży.
+
+## Film nr 22 (23.11.2026)
+- `dog_license.mp4`: pies Biscuit z prawem jazdy (40 s, Liam ×1.12, 35 ujęć, napisy, karty HUD). Zwrot: auto bez silnika, w środku gniazdo ptaków, nigdy nie wyjechało z podjazdu.
+- Projekt: scratchpad/proj4 (nowe: drawDog, kabriolet z otwieraną maską, warstwa HUD nad obrazem).
+- ElevenLabs: zostało ok. 2900 znaków do resetu limitu.
