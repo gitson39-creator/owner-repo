@@ -81,3 +81,6 @@ Alternatywy: Leonida Daily, Vice Atlas, Where To Go First, Map of Vice, Leonida 
 ## Opisy TikTok (18.11.2026)
 #1: Starfish Island = Tommy Vercetti's old island 🏝️ Where are you going first in GTA 6? 👇 #gta6 #gtavi #vicecity #leonida #gta #rockstargames #gaming #gtavicecity
 #2: Ocean Beach by day, neon by night 🌴 Then the port across the water 🚢 Where are you going first? 👇 #gta6 #gtavi #vicecity #leonida #gta #rockstargames #gaming #oceanbeach
+
+## Nowy pomysł na film z historyjką (23.11.2026)
+21. „The town where the mayor was a parrot”: papuga po zmarłym burmistrzu powtarza jego zdania, rada słucha jej przez 9 lat. Zwrot: miasto ma najlepszy budżet w historii, bo papuga umiała powiedzieć tylko „No.”
