@@ -110,3 +110,4 @@ Analiza z 9 publicznych klatek (pełne wideo zablokowane przez weryfikację YouT
   - Świat realistyczny (PBR, HDRI, bloom, głębia ostrości), postacie płaskie 2D z białymi okrągłymi głowami.
 - Głos: ElevenLabs „Harry” (premade), tempo 1.12, najbliższy wysokością głosu (~180 Hz, wzór ~198 Hz). Darmowy plan ElevenLabs nie pozwala używać głosów z biblioteki przez API, dostępne są tylko premade.
 - Projekt: scratchpad/proj5 (render realistyczny, three.js r160 + tekstury Poly Haven CC0).
+- Zrobione: `dog_license_v2.mp4` (43,3 s, 1080×1920, 30 kl./s, 37 ujęć, lektor Harry ×1.12, −13,9 LUFS, szczyt −1,4 dBFS). Wersja w repo ma 14 Mb/s (77 MB) z powodu limitu GitHuba 100 MB. Wersja „master” crf 17 (231 MB) leży w scratchpad/proj5/out.
