@@ -34,3 +34,13 @@ Plik: 720×1280, 30 kl./s, 61,3 s, AAC stereo 44,1 kHz. Głośność −14,1 LUF
 - **Otoczenie**: realistyczne, szczegółowe 3D z materiałami PBR, odbiciami i fakturami (kafelki, panele, nity). Dużo rekwizytów, świecące ekrany i panele. Bez konturów na obiektach 3D.
 - **Światło**: wysoki kontrast, mocny bloom i gwiazdkowe odblaski, cząsteczki w powietrzu, głębia ostrości, lekka winieta. Wnętrza jasne i neutralne, sceny nocne granatowe z ciepłymi pomarańczowymi akcentami.
 - **Napisy**: biały gruby zaokrąglony font z czarnym obrysem, **1–2 słowa**, oryginalna wielkość liter i interpunkcja, około **65% wysokości kadru**, bez kolorowego podświetlenia, niewielki rozmiar.
+
+## Tytuły, opisy i hasztagi (stan z 23.11.2026)
+Źródło: strona Shorts kanału (@ricksclips3000), 47 tytułów. Pełna strona filmu „The Ancient Jar That Warned an Empire” (35 mln wyświetleń). Strony pozostałych filmów zablokowała weryfikacja YouTube.
+- **Opis = tytuł, słowo w słowo.** Bez hasztagów, linków i wezwań do subskrypcji. Słowa kluczowe filmu i kanału są puste. Opis kanału: „Hey I'm Rick! Just a regular guy who loves doing voiceovers.”
+- **Tytuły**: po angielsku, Title Case, 4–8 słów, bez emoji, bez kropki na końcu, bez WIELKICH LITER. Tytuł zostawia zagadkę i nie zdradza odpowiedzi. Cztery schematy:
+  1. „Why …” (najczęstszy): Why Perfect Railroads Don't Work (31 mln), Why Sailors Carried Storm Oil (16 mln), Why Cashiers Keep Winning The Lottery (10 mln), Why Astronauts Can't Flush in Space.
+  2. „The [kto/co] Who/That [dziwna rzecz]”: The Ancient Jar That Warned an Empire (35 mln), The Burglar Who Only Moved Furniture (10 mln), The Prisoner Who Tunneled Into a Bank, The Town Built Around a Button.
+  3. „How … Worked / Actually Works”: How One Cart Stopped an Entire Army (9,8 mln), How Mine Salting Worked (7,2 mln).
+  4. „This …”: This Shape Saved Roller Coasters (13 mln), This Knight Found the Ultimate Loophole.
+- Starsze filmy memowe miały krótkie hasła z emoji („Oh Nah 💀”, „Low And Slow 😭🤣”) i 50 tys.–1 mln wyświetleń. Formuła historyjek w 3D daje 5–35 mln.
