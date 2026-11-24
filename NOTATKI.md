@@ -17,6 +17,11 @@
 - Napisy wypalone w obrazie, słowo po słowie, aktualne słowo podświetlone na żółto.
 - Oryginalna historia ze zwrotem akcji na końcu. Bez prawdziwych osób i marek.
 - Głośność −14 LUFS, szczyt poniżej −1 dBFS. Muzyka 6 dB pod głosem.
+- KOLORY (24.11.2026, po filmie nr 43): więcej kolorów, bo cały film o zebrach był ponury. Unikać szaro-granatowej palety, mgły i półmroku przez cały film. Na przyszłość:
+  - słoneczne, nasycone HDRI (błękitne niebo, turkusowa woda);
+  - kolorowe rekwizyty, stroje i tła (czerwień, żółć, zieleń, pomarańcz);
+  - jaśniejsza ekspozycja i cieplejsze, żywsze światło;
+  - nawet sceny nocne lub podwodne z kolorowymi akcentami (neony, lampy, światła).
 
 ## Zrobione filmy
 1. `gus_the_rooster.mp4`: kogut skazany na więzienie (61 s, lektor Piper, napisy).
@@ -123,6 +128,7 @@ Analiza z 9 publicznych klatek (pełne wideo zablokowane przez weryfikację YouT
   2. Obróbka `narzedzia/glos/post.py <wej> <wyj>`: TYLKO skrócenie pauz do 0,2 s i delikatny kompresor 2:1.
   3. ZAKAZ zmiany tonu i tempa (rubberband, asetrate itp.). Użytkownik 24.11.2026: „brzmi jakby miał modulator, ma być normalny”. Głos ma brzmieć naturalnie, ekspresja wyłącznie z modelu v3 i tagów.
   4. Wynik: 142 Hz (naturalny Liam), zakres 24,8 półtonu, ruch 58 półtonu/s (wzór 55), ~181 słów/min. Próbka: `glos_liam_ricksclips_probka.mp3`.
+- POTWIERDZONE (24.11.2026): użytkownik ocenił głos z filmu nr 43 jako dobry, więc zostaje bez zmian. Liam, `eleven_v3`, stability 0.0, tagi emocji, pauzy 0,24 s, bez zmiany tonu i tempa.
 - Limit ElevenLabs: zostało 1529 znaków do 17.12.2026 (to wystarczy na jeden film 60 s, ok. 1100 znaków z tagami).
 
 ## Lista pomysłów 4: formuła RicksClips (24.11.2026)
@@ -171,3 +177,4 @@ Ocena użytkownika: lista 4 była za słaba („lepsze pomysły daj, co to ma by
   - 1080×1920, 30 kl./s, 1838 klatek, render 65 min.
   - −14,3 LUFS, brak zamrożeń i czarnych klatek.
   - Repo: 12 Mb/s, 94 MB (limit GitHuba). Master crf 17 (413 MB) w scratchpad/proj6/out.
+- Ocena użytkownika: głos dobry, film zostaje bez poprawek. Uwaga na przyszłość: za mało kolorów, całość ponura.
