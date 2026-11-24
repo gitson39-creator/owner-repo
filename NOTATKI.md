@@ -191,3 +191,18 @@ Zasady: zwrot, fortel albo przypadek (jak w liście 5) i z natury kolorowy świa
   - −14,3 LUFS, brak zamrożeń i czarnych klatek.
   - Repo: 12 Mb/s, 94 MB (limit GitHuba). Master crf 17 (413 MB) w scratchpad/proj6/out.
 - Ocena użytkownika: głos dobry, film zostaje bez poprawek. Uwaga na przyszłość: za mało kolorów, całość ponura.
+
+## Film nr 57: „Why Stop Signs Used to Be Yellow” (24.11.2026)
+- Wybór użytkownika: pomysł 57 z listy 6.
+- Fakty sprawdzone w Wikipedii (Stop sign):
+  - pierwsze znaki STOP: Detroit, 1915;
+  - w latach 1924–1954 znaki były żółte z czerwonym lub czarnym napisem, bo nie istniały czerwone materiały odporne na blaknięcie;
+  - od 1954 roku: czerwone pole z białym napisem.
+- ElevenLabs: przed nagraniem zostały tylko 442 znaki (limit odnawia się 17.12.2026), więc film jest krótszy: tekst ma 399 znaków, głos trwa 23,5 s. Po nagraniu zostało około 40 znaków.
+  - Głos: Liam, `eleven_v3`, ten sam przepis co w filmie nr 43. Transkrypcja zgadza się słowo w słowo.
+- Kolory (zgodnie z nową zasadą):
+  - słoneczne niebo i kolorowe domy (róż, mięta, błękit, brzoskwinia, lawenda);
+  - jesienne drzewa w ujęciach poklatkowych;
+  - wnętrza w ciepłej brzoskwini;
+  - kolorowe postacie: komisja w czerwieni, zieleni i błękicie, malarz w kolorowych kleksach.
+- Projekt: scratchpad/proj7 (świat z proj5 plus skrzyżowanie, znaki STOP z teksturą canvas, sygnalizator, puszki farby, laboratorium, ujęcia poklatkowe ze słońcem).
