@@ -112,3 +112,25 @@ Analiza z 9 publicznych klatek (pełne wideo zablokowane przez weryfikację YouT
 - Projekt: scratchpad/proj5 (render realistyczny, three.js r160 + tekstury Poly Haven CC0).
 - Zrobione: `dog_license_v2.mp4` (43,3 s, 1080×1920, 30 kl./s, 37 ujęć, lektor Harry ×1.12, −13,9 LUFS, szczyt −1,4 dBFS). Wersja w repo ma 14 Mb/s (77 MB) z powodu limitu GitHuba 100 MB. Wersja „master” crf 17 (231 MB) leży w scratchpad/proj5/out.
 - Tytuł i opis `dog_license_v2.mp4` według zasady RicksClips (opis = tytuł, bez hasztagów): **Why This Dog Never Got a Ticket**
+
+## Głos w stylu RicksClips: Liam „z dopaminą” (24.11.2026)
+- Prośba: głos bardziej jak RicksClips, może być Liam, ale ekspresyjny, ze zmianami tonu.
+- Pomiary (Praat). Wzór: 198 Hz, zakres 17,3 półtonu, ruch 55 półtonu/s, ~200 słów/min. Zwykły Liam (v2): 123 Hz, zakres 14 półtonu, ruch 41–46.
+- PRZEPIS (od teraz standard):
+  1. ElevenLabs model `eleven_v3`, Liam (TX3LPaxmHKxFdv7VOQHJ), stability 0.0 (Creative), similarity 0.8. W tekście tagi emocji: [excited], [curious], [whispers], [laughs] itd. przed frazami.
+  2. Obróbka `narzedzia/glos/post.py <wej> <wyj> 5 1.08`: pauzy skrócone do 0,2 s, tempo ×1.08, ton +5 półtonu z zachowaniem formantów (rubberband), kompresor 4:1, +2 dB powyżej 3,5 kHz.
+  3. Wynik: 190 Hz, ruch 52 półtonu/s, ~196 słów/min, barwa 1817 Hz. Próbka: `glos_liam_ricksclips_probka.mp3`.
+- Limit ElevenLabs: zostało 1529 znaków do 17.12.2026 (to wystarczy na jeden film 60 s, ok. 1100 znaków z tagami).
+
+## Lista pomysłów 4: formuła RicksClips (24.11.2026)
+Prawdziwy mechanizm, bohater bez nazwiska („the new guy”), tytuł według schematu kanału.
+32. Why Pilots Never Eat the Same Meal
+33. The Fake Town That Became Real (Agloe, rekomendowany)
+34. Why Soldiers Stop Marching on Bridges
+35. Why Planes Dim the Lights Before Landing
+36. Why the Black Box Is Orange
+37. Why Surgeons Stopped Wearing White
+38. How Sailors Knew Which Lighthouse They Saw
+39. Why Pilots Say Mayday Three Times
+40. The Money That Explodes When Stolen
+41. Why Casinos Have No Clocks
