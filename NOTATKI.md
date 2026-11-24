@@ -30,6 +30,7 @@
 3. `whistle_town.mp4`: miasteczko, które zakazało gwizdania (61 s, Liam ×1.12, 54 ujęcia kamery, napisy). Pomysł nr 11.
 4. `dog_license_v2.mp4`: Why This Dog Never Got a Ticket (43,3 s).
 5. `zebra_ships.mp4`: Why Warships Were Painted Like Zebras (61,3 s, Liam v3 bez modulacji). Pomysł 43.
+6. `stop_signs.mp4`: Why Stop Signs Used to Be Yellow (24,4 s, krótszy przez limit ElevenLabs). Pomysł 57.
 
 ## Lista pomysłów (z 17.11.2026)
 1. Koza wybrana na burmistrza
@@ -206,3 +207,8 @@ Zasady: zwrot, fortel albo przypadek (jak w liście 5) i z natury kolorowy świa
   - wnętrza w ciepłej brzoskwini;
   - kolorowe postacie: komisja w czerwieni, zieleni i błękicie, malarz w kolorowych kleksach.
 - Projekt: scratchpad/proj7 (świat z proj5 plus skrzyżowanie, znaki STOP z teksturą canvas, sygnalizator, puszki farby, laboratorium, ujęcia poklatkowe ze słońcem).
+- Zrobione 24.11.2026: `stop_signs.mp4`.
+  - 24,4 s, 1080×1920, 30 kl./s, 732 klatki, 19 ujęć.
+  - −14,1 LUFS, brak zamrożeń i czarnych klatek.
+  - Repo: 24 Mb/s, 74 MB. Master crf 17 (120 MB) w scratchpad/proj7/out.
+- Tytuł i opis: **Why Stop Signs Used to Be Yellow**
