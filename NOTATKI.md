@@ -157,6 +157,19 @@ Ocena użytkownika: lista 4 była za słaba („lepsze pomysły daj, co to ma by
 50. Why the Mona Lisa Is Famous: kradzież w 1911 (wzór: The Prisoner Who Tunneled Into a Bank).
 51. The Prison Where You're Always Watched: panoptykon (wzór: The Pink Prison Cell Experiment, 11 mln).
 
+## Lista pomysłów 6: formuła RicksClips + dużo kolorów (24.11.2026)
+Zasady: zwrot, fortel albo przypadek (jak w liście 5) i z natury kolorowy świat (uwaga po filmie nr 43). Bez nazwisk i marek.
+52. The Rubber Ducks That Mapped the Ocean: w 1992 kontener z 28 800 gumowymi zabawkami (kaczki, żaby, bobry, żółwie) wpadł do Pacyfiku. Oceanografowie śledzili je latami i poznali prądy morskie. REKOMENDACJA.
+53. The First Pilots Were a Sheep, a Duck and a Rooster: Wersal 1783, kolorowy balon. Król chciał wysłać przestępców, poleciały zwierzęta i przeżyły.
+54. The Town That Refused to Stop Being Blue: hiszpańska wioska pomalowana na niebiesko dla filmu. Mieszkańcy zagłosowali, żeby została niebieska, i przyjechały tłumy turystów.
+55. The Purple That Cost More Than Gold: purpura z tysięcy ślimaków tylko dla władców. 18-letni student, próbując zrobić lek, przypadkiem wynalazł tani fiolet.
+56. The Paint Made From Real Mummies: farba „mummy brown” z mielonych mumii. Malarz po odkryciu zakopał swoją tubkę.
+57. Why Stop Signs Used to Be Yellow: czerwień płowiała na słońcu, więc przez 30 lat znaki były żółte.
+58. The Dress That Was Literally Toxic: modna szmaragdowa zieleń z arszenikiem w sukniach i tapetach.
+59. Why Pencils Are Yellow: żółty miał sugerować najlepszy grafit z Chin, a konkurencja zaczęła kopiować kolor.
+60. Why Flamingos Aren't Born Pink: pisklęta są szare, różowe stają się od jedzenia. Zoo musi dodawać barwnik do karmy.
+61. Why Fire Trucks Turned Lime Green: badania wykazały, że czerwonego wozu nocą prawie nie widać, a limonkowe miały mniej wypadków.
+
 ## Film nr 43: „Why Warships Were Painted Like Zebras” (24.11.2026)
 - Wybór użytkownika: pomysł 43 z listy 5 (kamuflaż dazzle).
 - Fakty sprawdzone w Wikipedii (Dazzle camouflage):
