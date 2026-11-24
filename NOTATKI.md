@@ -23,6 +23,8 @@
 2. `brimwick_hats.mp4`: miasteczko, w którym wszyscy noszą ten sam kapelusz (61 s, ElevenLabs Liam ×1.12, 60 ujęć kamery, napisy). Pomysł nr 5 z listy. Wersja 2: szybki montaż, naprawione migotanie podłogi.
 
 3. `whistle_town.mp4`: miasteczko, które zakazało gwizdania (61 s, Liam ×1.12, 54 ujęcia kamery, napisy). Pomysł nr 11.
+4. `dog_license_v2.mp4`: Why This Dog Never Got a Ticket (43,3 s).
+5. `zebra_ships.mp4`: Why Warships Were Painted Like Zebras (61,3 s, Liam v3 bez modulacji). Pomysł 43.
 
 ## Lista pomysłów (z 17.11.2026)
 1. Koza wybrana na burmistrza
@@ -165,3 +167,7 @@ Ocena użytkownika: lista 4 była za słaba („lepsze pomysły daj, co to ma by
   - ocean: siatka fal Gerstnera wokół kamery plus daleka płaszczyzna;
   - kadłub proceduralny z teksturą dazzle (`fx6.js`, `shipdim.js`).
 - Tytuł i opis (zasada RicksClips: opis = tytuł, bez hasztagów): **Why Warships Were Painted Like Zebras**
+- Zrobione 24.11.2026: `zebra_ships.mp4`.
+  - 1080×1920, 30 kl./s, 1838 klatek, render 65 min.
+  - −14,3 LUFS, brak zamrożeń i czarnych klatek.
+  - Repo: 12 Mb/s, 94 MB (limit GitHuba). Master crf 17 (413 MB) w scratchpad/proj6/out.
