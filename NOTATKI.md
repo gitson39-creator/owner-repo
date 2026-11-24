@@ -148,3 +148,20 @@ Ocena użytkownika: lista 4 była za słaba („lepsze pomysły daj, co to ma by
 49. How They Saved the Tower That Wanted to Fall: Piza, wybieranie gruntu spod wyższej strony (wzór: Why Perfect Railroads Don't Work, 31 mln).
 50. Why the Mona Lisa Is Famous: kradzież w 1911 (wzór: The Prisoner Who Tunneled Into a Bank).
 51. The Prison Where You're Always Watched: panoptykon (wzór: The Pink Prison Cell Experiment, 11 mln).
+
+## Film nr 43: „Why Warships Were Painted Like Zebras” (24.11.2026)
+- Wybór użytkownika: pomysł 43 z listy 5 (kamuflaż dazzle).
+- Fakty sprawdzone w Wikipedii (Dazzle camouflage):
+  - przyjęty w 1917 roku;
+  - cel: nie ukryć statek, tylko utrudnić ocenę odległości, prędkości i kursu;
+  - każdy statek miał unikalny wzór;
+  - pomalowano ponad 4000 brytyjskich statków handlowych i około 400 okrętów.
+- Lektor: Liam, `eleven_v3`, stability 0.0, z tagami emocji. Jedno nagranie zużyło 1087 znaków; zostało około 440 do 17.12.2026.
+  - Pauzy skrócone do 0,24 s (po „He fires...” 0,55 s); bez zmiany tonu i tempa.
+  - Kontrola: transkrypcja faster-whisper zgadza się słowo w słowo; czasy słów mają medianę odchyłki 0,04 s.
+- Długość: 61,3 s, 40 ujęć.
+- Sceny: morze, nabrzeże z malarzami, U-boot (wnętrze i z zewnątrz), widok przez peryskop, torpeda pod wodą, diagram z lotu ptaka, konwój, zachód słońca.
+- Projekt: scratchpad/proj6:
+  - ocean: siatka fal Gerstnera wokół kamery plus daleka płaszczyzna;
+  - kadłub proceduralny z teksturą dazzle (`fx6.js`, `shipdim.js`).
+- Tytuł i opis (zasada RicksClips: opis = tytuł, bez hasztagów): **Why Warships Were Painted Like Zebras**
