@@ -118,8 +118,9 @@ Analiza z 9 publicznych klatek (pełne wideo zablokowane przez weryfikację YouT
 - Pomiary (Praat). Wzór: 198 Hz, zakres 17,3 półtonu, ruch 55 półtonu/s, ~200 słów/min. Zwykły Liam (v2): 123 Hz, zakres 14 półtonu, ruch 41–46.
 - PRZEPIS (od teraz standard):
   1. ElevenLabs model `eleven_v3`, Liam (TX3LPaxmHKxFdv7VOQHJ), stability 0.0 (Creative), similarity 0.8. W tekście tagi emocji: [excited], [curious], [whispers], [laughs] itd. przed frazami.
-  2. Obróbka `narzedzia/glos/post.py <wej> <wyj> 5 1.08`: pauzy skrócone do 0,2 s, tempo ×1.08, ton +5 półtonu z zachowaniem formantów (rubberband), kompresor 4:1, +2 dB powyżej 3,5 kHz.
-  3. Wynik: 190 Hz, ruch 52 półtonu/s, ~196 słów/min, barwa 1817 Hz. Próbka: `glos_liam_ricksclips_probka.mp3`.
+  2. Obróbka `narzedzia/glos/post.py <wej> <wyj>`: TYLKO skrócenie pauz do 0,2 s i delikatny kompresor 2:1.
+  3. ZAKAZ zmiany tonu i tempa (rubberband, asetrate itp.). Użytkownik 24.11.2026: „brzmi jakby miał modulator, ma być normalny”. Głos ma brzmieć naturalnie, ekspresja wyłącznie z modelu v3 i tagów.
+  4. Wynik: 142 Hz (naturalny Liam), zakres 24,8 półtonu, ruch 58 półtonu/s (wzór 55), ~181 słów/min. Próbka: `glos_liam_ricksclips_probka.mp3`.
 - Limit ElevenLabs: zostało 1529 znaków do 17.12.2026 (to wystarczy na jeden film 60 s, ok. 1100 znaków z tagami).
 
 ## Lista pomysłów 4: formuła RicksClips (24.11.2026)
