@@ -137,7 +137,7 @@ Prawdziwy mechanizm, bohater bez nazwiska („the new guy”), tytuł według sc
 41. Why Casinos Have No Clocks
 
 ## Lista pomysłów 5: na bazie największych hitów RicksClips (24.11.2026)
-Ocena użytkownika: lista 4 była za słaba („lepsze pomysły daj, co to ma być”). Nowa zasada: pomysł musi mieć fortel, oszustwo, lukę w prawie, sprytny wynalazek albo zwrot, a nie samą ciekawostkę „why X”. Ma być visualnie efektowny w 3D. Każdy wzorowany na kategorii hitu RicksClips:
+Ocena użytkownika: lista 4 była za słaba („lepsze pomysły daj, co to ma być”). Nowa zasada: pomysł musi mieć fortel, oszustwo, lukę w prawie, sprytny wynalazek albo zwrot, a nie samą ciekawostkę „why X”. Ma być wizualnie efektowny w 3D. Każdy wzorowany na kategorii hitu RicksClips:
 42. The Army Made of Balloons: dmuchane czołgi „armii duchów” z II wojny (wzór: How One Cart Stopped an Entire Army, 9,8 mln). REKOMENDACJA.
 43. Why Warships Were Painted Like Zebras: kamuflaż dazzle (wzór: This Shape Saved Roller Coasters, 13 mln).
 44. The Students Who Beat the Lottery Legally: luka „roll-down” w loterii Cash WinFall (wzór: Why Cashiers Keep Winning The Lottery, 10 mln; The Window That Breaks Japan's Gambling Law, 16 mln).
