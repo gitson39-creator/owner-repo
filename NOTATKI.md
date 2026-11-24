@@ -135,3 +135,16 @@ Prawdziwy mechanizm, bohater bez nazwiska („the new guy”), tytuł według sc
 39. Why Pilots Say Mayday Three Times
 40. The Money That Explodes When Stolen
 41. Why Casinos Have No Clocks
+
+## Lista pomysłów 5: na bazie największych hitów RicksClips (24.11.2026)
+Ocena użytkownika: lista 4 była za słaba („lepsze pomysły daj, co to ma być”). Nowa zasada: pomysł musi mieć fortel, oszustwo, lukę w prawie, sprytny wynalazek albo zwrot, a nie samą ciekawostkę „why X”. Ma być visualnie efektowny w 3D. Każdy wzorowany na kategorii hitu RicksClips:
+42. The Army Made of Balloons: dmuchane czołgi „armii duchów” z II wojny (wzór: How One Cart Stopped an Entire Army, 9,8 mln). REKOMENDACJA.
+43. Why Warships Were Painted Like Zebras: kamuflaż dazzle (wzór: This Shape Saved Roller Coasters, 13 mln).
+44. The Students Who Beat the Lottery Legally: luka „roll-down” w loterii Cash WinFall (wzór: Why Cashiers Keep Winning The Lottery, 10 mln; The Window That Breaks Japan's Gambling Law, 16 mln).
+45. How Persians Made Ice in the Desert: yakhchal (wzór: The Ancient Jar That Warned an Empire, 35 mln).
+46. Pirates Had Better Insurance Than You: kodeks piracki, wypłaty za utracone kończyny (wzór: Levels of Pirate Cannonballs, 10 mln).
+47. The Fake Town That Became Real: Agloe (wzór: The Town Built Around a Button).
+48. The Lighthouse That Poisoned Its Keeper: soczewka na kąpieli rtęciowej (wzór: What the Grave Bell Really Meant, 14 mln).
+49. How They Saved the Tower That Wanted to Fall: Piza, wybieranie gruntu spod wyższej strony (wzór: Why Perfect Railroads Don't Work, 31 mln).
+50. Why the Mona Lisa Is Famous: kradzież w 1911 (wzór: The Prisoner Who Tunneled Into a Bank).
+51. The Prison Where You're Always Watched: panoptykon (wzór: The Pink Prison Cell Experiment, 11 mln).
