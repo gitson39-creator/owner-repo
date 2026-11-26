@@ -38,6 +38,7 @@
 7. `cow_eyes.mp4`: The Cows With Eyes on Their Butts (61,9 s, Liam v3). Pomysł 63.
 8. `penguin_general.mp4`: The Penguin Who Became a General (64,2 s, Liam v3, 41 ujęć). Pomysł 64.
 9. `fake_bus_stop.mp4`: The Fake Bus Stop for People Who Wander (62,3 s, Liam v3, 36 ujęć). Pomysł 65.
+10. `elevator_mirrors.mp4`: Why Elevators Have Mirrors (61,1 s, Liam v3, 28 ujęć). Pomysł 66.
 
 ## Lista pomysłów (z 17.11.2026)
 1. Koza wybrana na burmistrza
@@ -303,3 +304,6 @@ Te same zasady co lista 6: zwrot, fortel albo przypadek, kolorowy świat, bez na
   - kabina windy z lustrem: własna mapa odbić w kolorach holu, bo HDRI dawało biały blask słońca;
   - ujęcia „z punktu widzenia lustra” z ramką lustra jako HUD.
 - Nauczka: pionowy kadr ma wąskie pole poziome (szerokość ≈ 0,56 × wysokość). Postacie muszą stać blisko osi kamery.
+- Zrobione 26.11.2026: `elevator_mirrors.mp4`, 1080×1920, 30 fps, 61,1 s, −14,2 LUFS, bez zamrożeń i czarnych klatek, 93,2 MB (web 12 Mb/s). Master crf17 (160 MB) został w scratchpad/proj11/out.
+- Tytuł i opis: „Why Elevators Have Mirrors”.
+- Wszystkie trzy filmy z polecenia (64, 65, 66) dostarczone 26.11.2026. Automatyczne wznawianie usunięte.
