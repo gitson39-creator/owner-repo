@@ -225,3 +225,19 @@ Te same zasady co lista 6: zwrot, fortel albo przypadek, kolorowy świat, bez na
   - −14,1 LUFS, brak zamrożeń i czarnych klatek.
   - Repo: 24 Mb/s, 74 MB. Master crf 17 (120 MB) w scratchpad/proj7/out.
 - Tytuł i opis: **Why Stop Signs Used to Be Yellow**
+
+## Film nr 63: „The Cows With Eyes on Their Butts” (26.11.2026)
+- Wybór użytkownika: pomysł 63 z listy 7.
+- 26.11.2026 użytkownik podał nowy klucz ElevenLabs (darmowe konto, 10 000 znaków).
+  - Klucz jest tylko w scratchpad/.el_key i nigdy nie trafia do repozytorium. Stary klucz zapisałem w .el_key_old.
+  - Polecenie: „użyj tego samego głosu co w poprzednim filmie” → Liam, `eleven_v3`, ten sam przepis.
+- Fakty z oryginalnego badania (Communications Biology 3, 430, 2020):
+  - 14 stad w północnej Botswanie, na skraju delty Okawango, lata 2015–2018;
+  - 2061 krów: zginęło 0 z 683 z oczami, 4 z 543 z krzyżykami i 15 z 835 bez znaków;
+  - napastnicy to głównie lwy (i 1 lampart).
+- Głos: 1009 znaków, 61,0 s po skróceniu pauz, transkrypcja zgodna słowo w słowo.
+- Projekt: scratchpad/proj8:
+  - sawanna z 17 tys. kęp trawy;
+  - akacje, okrągłe chaty z malowanymi pasami, zagroda z pali, obóz naukowców z dżipem;
+  - postacie: krowa z boku i od tyłu (oczy, krzyżyk, szkic), lew z boku i z przodu.
+- Nauczka techniczna: tło HDRI przeliczane przez three.js na sześcian daje w swiftshaderze prostokątne plamy na niebie. Trzeba używać własnej sfery nieba (SKY mesh).
