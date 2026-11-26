@@ -5,6 +5,8 @@
 - Nie zadawać pytań: decyzje podejmować samodzielnie („wybierz sam”, „nie odpowiadam na pytania”).
 - Robić dokładnie to, o co proszono, nie więcej. Na przykład „podłącz ElevenLabs i daj pomysły” nie oznacza przerabiania filmu.
 - Zapamiętywać wszystko, co mówi użytkownik.
+- 26.11.2026: „jak skończysz, to rób następne po kolei i zrób tak jeszcze z 3”. Po filmie 63 robię kolejno 64, 65 i 66 z listy 7. Użytkownika nie ma, więc historie wybieram sam.
+  - Każdy film ma mieć mocny hak na początku i historię, której widz chce słuchać do końca, bo jest ciekawy (jak w filmie 63).
 
 ## Filmy (styl ricksclips)
 - Pionowo, 1080x1920, 30 fps.
@@ -31,6 +33,7 @@
 4. `dog_license_v2.mp4`: Why This Dog Never Got a Ticket (43,3 s).
 5. `zebra_ships.mp4`: Why Warships Were Painted Like Zebras (61,3 s, Liam v3 bez modulacji). Pomysł 43.
 6. `stop_signs.mp4`: Why Stop Signs Used to Be Yellow (24,4 s, krótszy przez limit ElevenLabs). Pomysł 57.
+7. `cow_eyes.mp4`: The Cows With Eyes on Their Butts (61,9 s, Liam v3). Pomysł 63.
 
 ## Lista pomysłów (z 17.11.2026)
 1. Koza wybrana na burmistrza
@@ -241,3 +244,8 @@ Te same zasady co lista 6: zwrot, fortel albo przypadek, kolorowy świat, bez na
   - akacje, okrągłe chaty z malowanymi pasami, zagroda z pali, obóz naukowców z dżipem;
   - postacie: krowa z boku i od tyłu (oczy, krzyżyk, szkic), lew z boku i z przodu.
 - Nauczka techniczna: tło HDRI przeliczane przez three.js na sześcian daje w swiftshaderze prostokątne plamy na niebie. Trzeba używać własnej sfery nieba (SKY mesh).
+- Zrobione 26.11.2026: `cow_eyes.mp4`.
+  - 1080×1920, 30 kl./s, 1858 klatek, 34 ujęcia; render około 2,5 h (4,8 s na klatkę, przerwany limitem czasu i wznowiony z RESUME=1).
+  - −14,5 LUFS, brak zamrożeń i czarnych klatek.
+  - Repo: 12 Mb/s, 95 MB. Master crf 17 (384 MB) w scratchpad/proj8/out.
+- Tytuł i opis: **The Cows With Eyes on Their Butts**
