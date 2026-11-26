@@ -37,6 +37,7 @@
 6. `stop_signs.mp4`: Why Stop Signs Used to Be Yellow (24,4 s, krótszy przez limit ElevenLabs). Pomysł 57.
 7. `cow_eyes.mp4`: The Cows With Eyes on Their Butts (61,9 s, Liam v3). Pomysł 63.
 8. `penguin_general.mp4`: The Penguin Who Became a General (64,2 s, Liam v3, 41 ujęć). Pomysł 64.
+9. `fake_bus_stop.mp4`: The Fake Bus Stop for People Who Wander (62,3 s, Liam v3, 36 ujęć). Pomysł 65.
 
 ## Lista pomysłów (z 17.11.2026)
 1. Koza wybrana na burmistrza
@@ -285,6 +286,8 @@ Te same zasady co lista 6: zwrot, fortel albo przypadek, kolorowy świat, bez na
   - ogród z kwiatami i stolikiem z parasolem;
   - przystanek z żółto-zielonym znakiem „H”, żółty autobus, kolorowe domy;
   - pole z makami „daleko stąd”.
+- Zrobione 26.11.2026: `fake_bus_stop.mp4`, 1080×1920, 30 fps, 62,3 s, −14,3 LUFS, bez zamrożeń i czarnych klatek, 94,7 MB (web 12 Mb/s). Master crf17 (265 MB) został w scratchpad/proj10/out.
+- Tytuł i opis: „The Fake Bus Stop for People Who Wander”.
 
 ## Film nr 66: „Why Elevators Have Mirrors” (26.11.2026)
 - Historia o skargach na wolne windy i lustrach jest anegdotą, której nikt nie potwierdził. Tekst mówi to uczciwie: „The story goes like this… Nobody can prove which building it was”.
