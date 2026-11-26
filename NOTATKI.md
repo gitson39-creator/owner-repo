@@ -7,6 +7,8 @@
 - Zapamiętywać wszystko, co mówi użytkownik.
 - 26.11.2026: „jak skończysz, to rób następne po kolei i zrób tak jeszcze z 3”. Po filmie 63 robię kolejno 64, 65 i 66 z listy 7. Użytkownika nie ma, więc historie wybieram sam.
   - Każdy film ma mieć mocny hak na początku i historię, której widz chce słuchać do końca, bo jest ciekawy (jak w filmie 63).
+- 26.11.2026: „jeśli możesz oszczędzić limit, ale robić to dłużej, to tak zrób, bo się nie spieszę”. Oszczędzam limit: mniej sprawdzania, długie przerwy między kontrolami, brak zbędnych testów.
+  - Po wyczerpaniu limitu kontynuować automatycznie po resecie (zaplanowane zadanie wznawia pracę). Użytkownik nie odpowiada na pytania.
 
 ## Filmy (styl ricksclips)
 - Pionowo, 1080x1920, 30 fps.
