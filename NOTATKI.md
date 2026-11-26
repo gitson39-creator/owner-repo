@@ -36,6 +36,7 @@
 5. `zebra_ships.mp4`: Why Warships Were Painted Like Zebras (61,3 s, Liam v3 bez modulacji). Pomysł 43.
 6. `stop_signs.mp4`: Why Stop Signs Used to Be Yellow (24,4 s, krótszy przez limit ElevenLabs). Pomysł 57.
 7. `cow_eyes.mp4`: The Cows With Eyes on Their Butts (61,9 s, Liam v3). Pomysł 63.
+8. `penguin_general.mp4`: The Penguin Who Became a General (64,2 s, Liam v3, 41 ujęć). Pomysł 64.
 
 ## Lista pomysłów (z 17.11.2026)
 1. Koza wybrana na burmistrza
@@ -269,6 +270,8 @@ Te same zasady co lista 6: zwrot, fortel albo przypadek, kolorowy świat, bez na
   - zamek na wzgórzu z esplanadą i trybunami (tattoo o zmierzchu z fajerwerkami);
   - 124 gwardzistów w szeregach.
 - Postacie: pingwin królewski (`penguin.js`) z rangami: naszywki, pagony, medale, szarfa rycerska, czapka generalska, ryba.
+- Zrobione 26.11.2026: `penguin_general.mp4`, 1080×1920, 30 fps, 64,2 s, −13,9 LUFS, bez zamrożeń i czarnych klatek, 98 MB (web 12 Mb/s). Master crf17 (277 MB) został w scratchpad/proj9/out.
+- Tytuł i opis: „The Penguin Who Became a General”.
 
 ## Film nr 65: „The Fake Bus Stop for People Who Wander” (26.11.2026)
 - Fakty z wyszukiwania (DPA / China Daily 2008, IBTimes, mein-mmo, Lorey 2019):
