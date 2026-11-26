@@ -249,3 +249,49 @@ Te same zasady co lista 6: zwrot, fortel albo przypadek, kolorowy świat, bez na
   - −14,5 LUFS, brak zamrożeń i czarnych klatek.
   - Repo: 12 Mb/s, 95 MB. Master crf 17 (384 MB) w scratchpad/proj8/out.
 - Tytuł i opis: **The Cows With Eyes on Their Butts**
+
+## Film nr 64: „The Penguin Who Became a General” (26.11.2026)
+- Wybrany samodzielnie: kolejny z listy 7, zgodnie z poleceniem „rób następne po kolei”.
+- Fakty z wyszukiwania (Guinness World Records, Edinburgh Zoo, Wikipedia, RNZ):
+  - 1961: Norweska Gwardia Królewska występuje na Edinburgh Military Tattoo. Porucznik zainteresował się pingwinami w zoo.
+  - 1972: gwardia adoptuje pingwina królewskiego Nilsa Olava.
+  - Kolejne awanse (daty z lat 80. podają różne źródła różnie, więc w filmie nie ma lat): kapral, sierżant, starszy sierżant sztabowy (1993).
+  - 2005: posąg z brązu w zoo.
+  - 15.08.2008: tytuł szlachecki zatwierdzony przez króla Haralda V, ponad 130 żołnierzy, w akcie „in every way qualified to receive the honour and dignity of knighthood”.
+  - 2016: brygadier. 2023: generał major.
+  - Imię i stopień przechodzą na kolejne pingwiny (Nils Olav II, III).
+- Głos: Liam v3, 1075 znaków, 63,3 s. Pierwsze nagranie (1141 znaków) trwało 68,7 s, więc tekst skróciłem i nagrałem ponownie.
+- Świat (scratchpad/proj9):
+  - zoo z turkusowym basenem i muralem z górami lodowymi;
+  - posąg z brązu, flagi Norwegii i Szkocji, rabaty kwiatów;
+  - zamek na wzgórzu z esplanadą i trybunami (tattoo o zmierzchu z fajerwerkami);
+  - 124 gwardzistów w szeregach.
+- Postacie: pingwin królewski (`penguin.js`) z rangami: naszywki, pagony, medale, szarfa rycerska, czapka generalska, ryba.
+
+## Film nr 65: „The Fake Bus Stop for People Who Wander” (26.11.2026)
+- Fakty z wyszukiwania (DPA / China Daily 2008, IBTimes, mein-mmo, Lorey 2019):
+  - fałszywy przystanek przed domem seniora Benrath w Düsseldorfie (nazwa domu nie pada w filmie);
+  - jedna pensjonariuszka wsiadła do prawdziwego autobusu i trafiła daleko;
+  - personel mówi „autobus się spóźnia, może kawy?”, a po kilku minutach pensjonariusz zapomina, że chciał wyjść;
+  - pomysł rozszerzył się na całe Niemcy, a potem na świat.
+- Głos: Liam v3, 1030 znaków, 61,4 s, transkrypcja zgodna.
+- Świat (scratchpad/proj10):
+  - żółty dom opieki z kolorowymi okiennicami i girlandą;
+  - ogród z kwiatami i stolikiem z parasolem;
+  - przystanek z żółto-zielonym znakiem „H”, żółty autobus, kolorowe domy;
+  - pole z makami „daleko stąd”.
+
+## Film nr 66: „Why Elevators Have Mirrors” (26.11.2026)
+- Historia o skargach na wolne windy i lustrach jest anegdotą, której nikt nie potwierdził. Tekst mówi to uczciwie: „The story goes like this… Nobody can prove which building it was”.
+- Pewne fakty:
+  - zasada z „The Psychology of Waiting Lines” (D. Maister, 1985): „occupied time feels shorter than unoccupied time”;
+  - lustro pomaga osobom na wózkach widzieć, co jest za nimi;
+  - lustro optycznie powiększa ciasne wnętrze.
+- Historię o lotnisku w Houston pominąłem, bo też jest niepotwierdzona.
+- Głos: Liam v3, 981 znaków. Limit pauz podniosłem do 0,42 s, żeby nagranie trwało 60,2 s. Tempa i wysokości głosu nie zmieniałem.
+- Świat (scratchpad/proj11):
+  - plac z kolorowymi wieżowcami;
+  - Sky Tower z holem (różowa ściana z tęczowymi pasami, trzy windy, wyświetlacz pięter);
+  - kabina windy z lustrem: własna mapa odbić w kolorach holu, bo HDRI dawało biały blask słońca;
+  - ujęcia „z punktu widzenia lustra” z ramką lustra jako HUD.
+- Nauczka: pionowy kadr ma wąskie pole poziome (szerokość ≈ 0,56 × wysokość). Postacie muszą stać blisko osi kamery.
