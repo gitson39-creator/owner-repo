@@ -171,6 +171,19 @@ Zasady: zwrot, fortel albo przypadek (jak w liście 5) i z natury kolorowy świa
 60. Why Flamingos Aren't Born Pink: pisklęta są szare, różowe stają się od jedzenia. Zoo musi dodawać barwnik do karmy.
 61. Why Fire Trucks Turned Lime Green: badania wykazały, że czerwonego wozu nocą prawie nie widać, a limonkowe miały mniej wypadków.
 
+## Lista pomysłów 7: formuła RicksClips + dużo kolorów (26.11.2026)
+Te same zasady co lista 6: zwrot, fortel albo przypadek, kolorowy świat, bez nazwisk i marek.
+62. Why Fire Hydrants Have Five-Sided Bolts: w upały ludzie odkręcali hydranty, więc dodano pięciokątne śruby. Pasuje do nich tylko klucz strażaków.
+63. The Cows With Eyes on Their Butts: w Botswanie malowano oczy na zadach krów i lwy rzadziej atakowały, bo myślały, że zostały zauważone. REKOMENDACJA.
+64. The Penguin Who Became a General: pingwin w zoo w Edynburgu jest maskotką gwardii królewskiej. Dostał tytuł szlachecki i kolejne awanse, aż do generała.
+65. The Fake Bus Stop for People Who Wander: niemiecki dom opieki postawił fałszywy przystanek. Zagubieni pensjonariusze czekają na autobus, który nigdy nie przyjedzie, i bezpiecznie wracają.
+66. Why Elevators Have Mirrors: ludzie skarżyli się, że winda jedzie za wolno. Zamiast szybszej windy zamontowano lustra i skargi ustały.
+67. When Ketchup Was Medicine: w latach 30. XIX wieku sprzedawano „pigułki pomidorowe” na wszystkie choroby.
+68. Why Lobster Was Prison Food: w czasach kolonialnych homarów było tak dużo, że dostawali je więźniowie. Dziś to luksus.
+69. The Bubble Wrap That Was Wallpaper: folia bąbelkowa miała być tapetą 3D. Nikt jej nie chciał, dopóki nie zaczęto w nią pakować.
+70. The Toy Clay That Was Wall Cleaner: masa do czyszczenia tapet od sadzy straciła rynek, a nauczycielka zrobiła z niej zabawkę dla dzieci.
+71. The Spring That Fell Off a Ship Desk: inżynier pracujący nad sprężynami do okrętowych przyrządów strącił jedną z półki. Sprężyna „zeszła” po schodach i powstała zabawka.
+
 ## Film nr 43: „Why Warships Were Painted Like Zebras” (24.11.2026)
 - Wybór użytkownika: pomysł 43 z listy 5 (kamuflaż dazzle).
 - Fakty sprawdzone w Wikipedii (Dazzle camouflage):
