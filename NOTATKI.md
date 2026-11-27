@@ -9,6 +9,10 @@
   - Każdy film ma mieć mocny hak na początku i historię, której widz chce słuchać do końca, bo jest ciekawy (jak w filmie 63).
 - 26.11.2026: „jeśli możesz oszczędzić limit, ale robić to dłużej, to tak zrób, bo się nie spieszę”. Oszczędzam limit: mniej sprawdzania, długie przerwy między kontrolami, brak zbędnych testów.
   - Po wyczerpaniu limitu kontynuować automatycznie po resecie (zaplanowane zadanie wznawia pracę). Użytkownik nie odpowiada na pytania.
+- 27.11.2026: „nie spiesz się, lepiej dopracuj i rób dłużej, nic krócej i byle jak”. Jakość ma pierwszeństwo przed czasem:
+  - przed pełnym renderem dokładny przegląd klatek (początek, środek i koniec każdego ujęcia, a nie tylko środek);
+  - poprawianie kadrów, detali i animacji aż będzie dobrze;
+  - przegląd gotowych klatek przed złożeniem filmu.
 - 27.11.2026: „popraw film z pingwinem i rób 2 nowe, nie odpowiadam na pytania”.
   - Film 64: przebudować scenografię na pełną (zasada pełnej scenografii) i wyrenderować ponownie.
   - Nowe filmy: kolejne z listy 7, czyli 67 (ketchup jako lekarstwo) i 68 (homary jako jedzenie więźniów), od razu z pełną scenografią.
