@@ -55,7 +55,7 @@
 5. `zebra_ships.mp4`: Why Warships Were Painted Like Zebras (61,3 s, Liam v3 bez modulacji). Pomysł 43.
 6. `stop_signs.mp4`: Why Stop Signs Used to Be Yellow (24,4 s, krótszy przez limit ElevenLabs). Pomysł 57.
 7. `cow_eyes.mp4`: The Cows With Eyes on Their Butts (61,9 s, Liam v3). Pomysł 63.
-8. `penguin_general.mp4`: The Penguin Who Became a General (64,2 s, Liam v3, 41 ujęć). Pomysł 64.
+8. `penguin_general.mp4`: The Penguin Who Became a General (64,2 s, Liam v3, 41 ujęć). Pomysł 64. Wersja v2 z pełną scenografią z 27.11.2026.
 9. `fake_bus_stop.mp4`: The Fake Bus Stop for People Who Wander (62,3 s, Liam v3, 36 ujęć). Pomysł 65.
 10. `elevator_mirrors.mp4`: Why Elevators Have Mirrors (61,1 s, Liam v3, 28 ujęć). Pomysł 66.
 
@@ -334,6 +334,8 @@ Te same zasady co lista 6: zwrot, fortel albo przypadek, kolorowy świat, bez na
   - **Ludzie i zieleń:** ok. 30 stojących zwiedzających oraz dużo drzew.
   - **Edynburg:** ok. 180 kamienic z kolorowymi sklepami w rzędach wokół zoo i na zboczach zamkowego wzgórza, 5 wież kościołów i gotycki pomnik. O zmierzchu okna się świecą.
 - Render wszystkich klatek od nowa do frames2 (finish.sh używa frames2). Dźwięk i napisy bez zmian.
+- Zrobione 27.11.2026: `penguin_general.mp4` zastąpiony wersją v2. 1080×1920, 30 fps, 64,2 s, −13,9 LUFS, bez zamrożeń i czarnych klatek, 98,2 MB (web 12 Mb/s). Przed składaniem przejrzałem gęsto wszystkie klatki (co 15).
+- Czas: render na CPU (4 rdzenie, brak GPU), 5–8 s na klatkę, czyli około 3 h na film. 27.11 użytkownik pytał, czemu to trwa ~10 h. Wyjaśniłem i zostałem przy pełnej jakości.
 
 ## Film nr 67: „When Ketchup Was Medicine” (27.11.2026)
 - Wybrany samodzielnie: kolejny z listy 7 (nr 67).
