@@ -59,6 +59,7 @@
 9. `fake_bus_stop.mp4`: The Fake Bus Stop for People Who Wander (62,3 s, Liam v3, 36 ujęć). Pomysł 65.
 10. `elevator_mirrors.mp4`: Why Elevators Have Mirrors (61,1 s, Liam v3, 28 ujęć). Pomysł 66.
 11. `ketchup_medicine.mp4`: When Ketchup Was Medicine (64,2 s, Liam v3, 31 ujęć, pełna scenografia). Pomysł 67.
+12. `lobster_prison.mp4`: Why Lobster Was Prison Food (61,9 s, Liam v3, 30 ujęć, pełna scenografia). Pomysł 68.
 
 ## Lista pomysłów (z 17.11.2026)
 1. Koza wybrana na burmistrza
@@ -375,3 +376,6 @@ Te same zasady co lista 6: zwrot, fortel albo przypadek, kolorowy świat, bez na
   - dworzec z parowozem i wagonami, linia telegraficzna;
   - wnętrza: więzienie, biedna chata, fabryka konserw, wagon restauracyjny z przewijanym krajobrazem za oknem, elegancka restauracja (żyrandol, menu).
 - Muzyka: szanta na akordeonie, 116 bpm.
+- Zrobione 27.11.2026: `lobster_prison.mp4`, 1080×1920, 30 fps, 61,9 s, −14,1 LUFS, bez zamrożeń i czarnych klatek, 94,4 MB (web 12 Mb/s).
+  - Po przeglądzie gotowych klatek poprawiłem sześć ujęć: otwarcie w restauracji (homar na pierwszym planie, goście, okno z morzem), plaża (niższa kamera: horyzont, molo i żaglowiec zamiast czarnych pasów), etykiety PRISONERS i SERVANTS (na ekran), wiadro skorup w chacie (widać rodzinę i kominek), kobieta przed domem (etykieta POOR! i kosz widoczne) oraz rosnące ceny (pełna sala zamiast pustej ściany).
+- Wszystkie trzy filmy z polecenia 27.11 (64 v2, 67, 68) dostarczone. Automatyczne wznawianie usunięte.
