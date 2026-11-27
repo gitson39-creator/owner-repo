@@ -9,6 +9,9 @@
   - Każdy film ma mieć mocny hak na początku i historię, której widz chce słuchać do końca, bo jest ciekawy (jak w filmie 63).
 - 26.11.2026: „jeśli możesz oszczędzić limit, ale robić to dłużej, to tak zrób, bo się nie spieszę”. Oszczędzam limit: mniej sprawdzania, długie przerwy między kontrolami, brak zbędnych testów.
   - Po wyczerpaniu limitu kontynuować automatycznie po resecie (zaplanowane zadanie wznawia pracę). Użytkownik nie odpowiada na pytania.
+- 27.11.2026: „popraw film z pingwinem i rób 2 nowe, nie odpowiadam na pytania”.
+  - Film 64: przebudować scenografię na pełną (zasada pełnej scenografii) i wyrenderować ponownie.
+  - Nowe filmy: kolejne z listy 7, czyli 67 (ketchup jako lekarstwo) i 68 (homary jako jedzenie więźniów), od razu z pełną scenografią.
 
 ## Filmy (styl ricksclips)
 - Pionowo, 1080x1920, 30 fps.
@@ -319,3 +322,46 @@ Te same zasady co lista 6: zwrot, fortel albo przypadek, kolorowy świat, bez na
 - Zrobione 26.11.2026: `elevator_mirrors.mp4`, 1080×1920, 30 fps, 61,1 s, −14,2 LUFS, bez zamrożeń i czarnych klatek, 93,2 MB (web 12 Mb/s). Master crf17 (160 MB) został w scratchpad/proj11/out.
 - Tytuł i opis: „Why Elevators Have Mirrors”.
 - Wszystkie trzy filmy z polecenia (64, 65, 66) dostarczone 26.11.2026. Automatyczne wznawianie usunięte.
+
+## Film nr 64 v2: pełna scenografia (27.11.2026)
+- Poprawka na prośbę użytkownika: „popraw film z pingwinem”. Zgodnie z zasadą pełnej scenografii dobudowałem (scratchpad/proj9/web/_scen9.js):
+  - **Wybiegi w zoo:** laguna z flamingami, kopiec surykatek, wybieg żyraf z domem żyraf, wybieg zebr, ptaszarnia z papugami, dom słoni ze słoniami.
+  - **Budynki zoo:** kawiarnia z markizą („PENGUIN CAFE”), sklep z pamiątkami („ZOO SHOP”), budka z lodami, wózek z balonami, mapa zoo, drogowskazy, kosze, ławki, latarnie, donice z kwiatami, żywopłoty, ogrodzenie zoo.
+  - **Ludzie i zieleń:** ok. 30 stojących zwiedzających oraz dużo drzew.
+  - **Edynburg:** ok. 180 kamienic z kolorowymi sklepami w rzędach wokół zoo i na zboczach zamkowego wzgórza, 5 wież kościołów i gotycki pomnik. O zmierzchu okna się świecą.
+- Render wszystkich klatek od nowa do frames2 (finish.sh używa frames2). Dźwięk i napisy bez zmian.
+
+## Film nr 67: „When Ketchup Was Medicine” (27.11.2026)
+- Wybrany samodzielnie: kolejny z listy 7 (nr 67).
+- Fakty z wyszukiwania (Atlas Obscura, Mental Floss, JSTOR Daily, Popular Science, Daily Galaxy):
+  - 1834: lekarz z Ohio ogłasza, że pomidory pomagają na biegunkę, niestrawność i cholerę, i publikuje przepisy na ketchup pomidorowy.
+  - Sprzedawca z Cleveland sprzedaje „pigułki pomidorowe” na prawie wszystko.
+  - Konkurencyjny lekarz sprzedaje własne pigułki i obaj spierają się w gazetach (lata 1837–1839).
+  - Analizy wykazały, że w pigułkach nie było pomidora.
+  - Moda skończyła się około 1850 roku.
+- Nazwisk nie podaję („a doctor in Ohio”, „a clever salesman”, „a rival doctor”).
+- Głos: Liam v3, 967 znaków, 63,3 s, 1927 klatek. Wynik ASR zgadza się z tekstem.
+- Świat (scratchpad/proj12):
+  - główna ulica z lat 30. XIX w.: 22 kolorowe sklepy z fasadami, drewniane chodniki, markizy, beczki, latarnie, konie, wóz „TOMATO PILLS”, kury, pies;
+  - plac z altaną dla orkiestry, białym kościołem i girlandami;
+  - domy, farma pomidorów ze stodołą i straganem, wychodki;
+  - plakaty reklamowe, które pojawiają się dopiero od „ads everywhere”;
+  - wnętrza: apteka (półki z kolorowymi butelkami, słoje, szuflady), gabinet lekarza, laboratorium, współczesny bar z ketchupem.
+- Muzyka: ragtime na pianinie, 112 bpm.
+
+## Film nr 68: „Why Lobster Was Prison Food” (27.11.2026)
+- Wybrany samodzielnie: kolejny z listy 7 (nr 68).
+- Fakty z wyszukiwania (History.com, Mashed, Chowhound, MIT Sea Grant „Lobster Lore”):
+  - Homarów było tak dużo, że po sztormach leżały na brzegu w stertach (około 2 stóp).
+  - Służyły jako przynęta i nawóz.
+  - Jedli je więźniowie, służba i najbiedniejsi; skorupy w śmieciach były znakiem biedy.
+  - Puszkowanie i koleje w XIX w. sprawiły, że homar stał się luksusem.
+- Celowo pominąłem legendę o ustawach ograniczających homara do 3 razy w tygodniu, bo jest niepotwierdzona.
+- Głos: Liam v3, 965 znaków. Pierwsze nagranie trwało 52,9 s, więc tekst wydłużyłem. Limit pauz podniosłem do 0,5 s, co dało 61,0 s i 1858 klatek.
+- Świat (scratchpad/proj13):
+  - kolonialna wioska (domy saltbox, płotki, studnia, dom zgromadzeń z wieżą);
+  - plaża z górami homarów 3D (ok. 3000 instancji), morze, molo z beczkami przynęty, łodzie i żaglowce, latarnia morska;
+  - pole nawożone homarami, budynek więzienia;
+  - dworzec z parowozem i wagonami, linia telegraficzna;
+  - wnętrza: więzienie, biedna chata, fabryka konserw, wagon restauracyjny z przewijanym krajobrazem za oknem, elegancka restauracja (żyrandol, menu).
+- Muzyka: szanta na akordeonie, 116 bpm.
