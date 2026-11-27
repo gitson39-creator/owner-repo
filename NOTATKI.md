@@ -26,6 +26,18 @@
   - kolorowe rekwizyty, stroje i tła (czerwień, żółć, zieleń, pomarańcz);
   - jaśniejsza ekspozycja i cieplejsze, żywsze światło;
   - nawet sceny nocne lub podwodne z kolorowymi akcentami (neony, lampy, światła).
+- PEŁNA SCENOGRAFIA (27.11.2026): „masz robić całą scenerię do filmu, a nie że jest w filmie zoo i jest to pusta scena w Blenderze ze zwierzętami”. Każde miejsce ma wyglądać jak prawdziwe, kompletne miejsce, a nie jak pusty plan z kilkoma obiektami. Na przyszłość (i przy poprawkach):
+  - Zoo:
+    - wybiegi z ogrodzeniem, skałami, wodą i roślinnością;
+    - alejki, ławki, kosze, latarnie, drogowskazy, mapy, kioski, budki z lodami, toalety, wejście z kasami;
+    - zwiedzający, pracownicy, inne zwierzęta na sąsiednich wybiegach.
+  - Ulica:
+    - chodniki, krawężniki, pasy, latarnie, znaki, drzewa, samochody, witryny sklepów, przechodnie;
+    - okna z detalem, dachy, balkony.
+  - Wnętrze: meble, dekoracje, lampy, obrazy, rośliny, drobne przedmioty.
+  - Tło nigdy nie jest pustą trawą ani gołym horyzontem: dalsze budynki, drzewa, wzgórza, miasto w oddali.
+  - Każde ujęcie ma mieć zapełniony pierwszy, średni i dalszy plan.
+  - Przed renderem sprawdzić klatki testowe pod kątem pustych miejsc.
 
 ## Zrobione filmy
 1. `gus_the_rooster.mp4`: kogut skazany na więzienie (61 s, lektor Piper, napisy).
