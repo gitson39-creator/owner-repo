@@ -58,6 +58,7 @@
 8. `penguin_general.mp4`: The Penguin Who Became a General (64,2 s, Liam v3, 41 ujęć). Pomysł 64. Wersja v2 z pełną scenografią z 27.11.2026.
 9. `fake_bus_stop.mp4`: The Fake Bus Stop for People Who Wander (62,3 s, Liam v3, 36 ujęć). Pomysł 65.
 10. `elevator_mirrors.mp4`: Why Elevators Have Mirrors (61,1 s, Liam v3, 28 ujęć). Pomysł 66.
+11. `ketchup_medicine.mp4`: When Ketchup Was Medicine (64,2 s, Liam v3, 31 ujęć, pełna scenografia). Pomysł 67.
 
 ## Lista pomysłów (z 17.11.2026)
 1. Koza wybrana na burmistrza
@@ -354,6 +355,9 @@ Te same zasady co lista 6: zwrot, fortel albo przypadek, kolorowy świat, bez na
   - plakaty reklamowe, które pojawiają się dopiero od „ads everywhere”;
   - wnętrza: apteka (półki z kolorowymi butelkami, słoje, szuflady), gabinet lekarza, laboratorium, współczesny bar z ketchupem.
 - Muzyka: ragtime na pianinie, 112 bpm.
+
+- Zrobione 27.11.2026: `ketchup_medicine.mp4`, 1080×1920, 30 fps, 64,2 s, −14,2 LUFS, bez zamrożeń i czarnych klatek, 97,7 MB (web 12 Mb/s).
+  - Po przeglądzie gotowych klatek poprawiłem trzy ujęcia: altana (kamera w prześwicie między kolumnami, zamiast pustej białej ściany kościoła w tle kolorowe domy i drzewa, usunięci ludzie z toru kamery), ketchup na stole (odwrócony kąt z ladą, stołkami i menu, etykieta „KETCHUP” do kamery) i zbliżenie klienta (w tle okno z kolorowym miastem, etykieta MEDICINE?! na ekranie).
 
 ## Film nr 68: „Why Lobster Was Prison Food” (27.11.2026)
 - Wybrany samodzielnie: kolejny z listy 7 (nr 68).
