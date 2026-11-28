@@ -379,3 +379,27 @@ Te same zasady co lista 6: zwrot, fortel albo przypadek, kolorowy świat, bez na
 - Zrobione 27.11.2026: `lobster_prison.mp4`, 1080×1920, 30 fps, 61,9 s, −14,1 LUFS, bez zamrożeń i czarnych klatek, 94,4 MB (web 12 Mb/s).
   - Po przeglądzie gotowych klatek poprawiłem sześć ujęć: otwarcie w restauracji (homar na pierwszym planie, goście, okno z morzem), plaża (niższa kamera: horyzont, molo i żaglowiec zamiast czarnych pasów), etykiety PRISONERS i SERVANTS (na ekran), wiadro skorup w chacie (widać rodzinę i kominek), kobieta przed domem (etykieta POOR! i kosz widoczne) oraz rosnące ceny (pełna sala zamiast pustej ściany).
 - Wszystkie trzy filmy z polecenia 27.11 (64 v2, 67, 68) dostarczone. Automatyczne wznawianie usunięte.
+
+## Film „Roblox horror” wg promptu z Twittera (28.11.2026)
+- Polecenie: „używając tego prompta z twittera zrób taki film (historię wymyśl sam na podstawie trendujących filmów tego typu na YT Shorts); jeśli coś jest dodatkowo płatne, to najpierw mnie poinformuj”.
+- Prompt: Roblox-style horror, Blender z kodu, postacie R6, wysoki czarny potwór, lektor Adam (ElevenLabs), napisy Montserrat ExtraBold.
+- Historia (własna): „In this town, every kid must be home before nine.”
+  - Tyler się spóźnia i znika (zostaje czapka).
+  - Max wychodzi z latarką po siostrę Lily, która siedzi pod ostatnią latarnią.
+  - Ucieczka, sąsiedzi nie otwierają, gaśnie ostatnie światło.
+  - Twist: „The rule was never to keep it out. It was so it knew where to find you.”
+  - Drzwi Maxa są otwarte, potwór: „You're late.”
+- Koszty:
+  - ElevenLabs: plan free, 3019 znaków zostało, nagranie ok. 650 znaków. Plan free nie daje licencji komercyjnej (wymaga atrybucji).
+  - Mixkit, Blender, Montserrat, faster-whisper: za darmo. Pixabay blokuje tę maszynę (403).
+- Nagranie głosu zablokował klasyfikator bezpieczeństwa (prompt każe pytać przed wydaniem kredytów). Czekam na zgodę użytkownika.
+- Środowisko:
+  - Brak GPU. Blender 4.2.23 LTS w scratchpad/rb, Eevee na llvmpipe (EGL_PLATFORM=surfaceless).
+  - 720x1280, 8 próbek, raytracing off, ok. 9–14 s/klatkę, upscale do 1080x1920 w finish.sh.
+  - Pełna specyfikacja (1080p, 32 próbki, RT) to ok. 65 s/klatkę, czyli ok. 25 h.
+- Pliki w scratchpad/rb:
+  - build.py (świat i 41 ujęć przypiętych do słów);
+  - faces.py, clock_tex.py;
+  - voice.py (pauzy, atempo, potwór −5 półtonów, whisper large-v3-turbo + difflib);
+  - audio.py (bed Mixkit m625 ze skokiem 39,25 s na „Run!”, drone, SFX pod słowa, −13 LUFS + tanh);
+  - caps.py, finish.sh.
