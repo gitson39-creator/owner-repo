@@ -403,3 +403,18 @@ Te same zasady co lista 6: zwrot, fortel albo przypadek, kolorowy świat, bez na
   - voice.py (pauzy, atempo, potwór −5 półtonów, whisper large-v3-turbo + difflib);
   - audio.py (bed Mixkit m625 ze skokiem 39,25 s na „Run!”, drone, SFX pod słowa, −13 LUFS + tanh);
   - caps.py, finish.sh.
+- 28.11: użytkownik przysłał wzorzec z TikToka (@neyroblox23, „In this town every time someone says your name you get a dollar”) i chce taki sam wygląd, animacje, napisy, dźwięki i przejścia.
+  - Analiza wzorca:
+    - jasne, nasycone 3D w stylu Roblox, kwadratowe zaokrąglone głowy, duże błyszczące oczy z odblaskiem, grube brwi, usta D z językiem, rumieńce, kolczaste włosy, bluzy ze sznurkami i plakietką;
+    - nocą fioletowe niebo, poświata;
+    - napisy po jednym słowie, żółtozielone (#DCF83C) z czarnym obrysem, małe litery, środek na ok. 60% wysokości;
+    - cięcie co ok. 1,5 s, ciągły powolny najazd kamery;
+    - lektor młody, energiczny (F0 ok. 240 Hz, 190 słów/min).
+  - Przebudowa:
+    - faces2.py (nowe twarze), rbox (zaokrąglone bryły), nowe postacie;
+    - paleta pastelowa z fioletową nocą, Fog Glow w kompozytorze, światło wypełniające przy kamerze;
+    - napisy Nunito Black 150 px w kolorze limonkowym.
+- Użytkownik wybrał głos „liam”. Nagranie: eleven_v3, Liam, stability 0.5, mp3_44100_128 (192 kb/s wymaga planu Creator).
+  - Zużyto 676 znaków.
+  - Po obróbce narracja trwa 36,0 s (x1,189), cały film 43,7 s.
+- Render: q_rb.sh (time-box 6900 s, RESUME), klatki w scratchpad/rb/frames, potem finish.sh, wynik out/roblox_curfew.mp4.
