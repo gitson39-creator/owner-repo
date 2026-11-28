@@ -418,3 +418,4 @@ Te same zasady co lista 6: zwrot, fortel albo przypadek, kolorowy świat, bez na
   - Zużyto 676 znaków.
   - Po obróbce narracja trwa 36,0 s (x1,189), cały film 43,7 s.
 - Render: q_rb.sh (time-box 6900 s, RESUME), klatki w scratchpad/rb/frames, potem finish.sh, wynik out/roblox_curfew.mp4.
+- (28.11) Roblox horror: render w toku (q_rb.sh, partie po ~2 h, RESUME). Przegląd klatek 1–414 OK poza ujęciem `window_stern` (przepalone okno za twarzą) — poprawione w build.py (okno 1.1, kamera na wprost, cała postać); po głównym renderze przerenderować f0082–f0112 bez RESUME.
